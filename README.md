@@ -11,6 +11,7 @@
 
 ## PROCEDURE:
 
+
 ## Assembly of Delta 3D Printer
 ### 1.	Select 'Assembly of Delta 3D Printer' from the visible list.
 ### 2.	All the parts related to Delta 3D Printer will be shown on the screen.
