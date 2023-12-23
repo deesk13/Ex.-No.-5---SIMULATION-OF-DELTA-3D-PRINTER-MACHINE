@@ -29,8 +29,8 @@
 ![image](https://github.com/deesk13/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150927063/02ee691d-3d4c-4808-8723-5cf8a39cb249)
 
 
-### Name:
-### Register Number:
+### Name:I.Deva Dharshini
+### Register Number:212223240026
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
